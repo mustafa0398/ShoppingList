@@ -3,7 +3,6 @@ package com.oeztuerk.shoppinglist;
 import androidx.annotation.ColorInt;
 import androidx.annotation.DrawableRes;
 import androidx.annotation.NonNull;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
